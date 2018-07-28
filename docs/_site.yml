@@ -1,0 +1,17 @@
+name: "textmining-website"
+output_dir: "."
+navbar:
+  title: "Coursera Capstone"
+  left:
+    - text: "Home"
+      href: index.html
+#    - text: "Placeholder1"
+#      href: Assignment1.html
+#    - text: "Placeholder2"
+#      href: Assignment2.html
+#    - text: "Placeholder3"
+#      href: Assignment3.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
